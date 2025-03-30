@@ -1,5 +1,5 @@
--- Death Counter and Serious Punch Music.
--- Someone make Table Flip and Omnidirectional Punch overwrite the music that's being played please :)
+-- Saitama Ultimate Music!
+-- Make sure to turn off awakening music!
 
 local contents
 
@@ -53,3 +53,5 @@ end
 
 setup(12983333733, seriouspunch)
 setup(11343318134, deathcounter)
+setup(11365563255, tableflip)
+setup(13891242085, omnidirectional)
